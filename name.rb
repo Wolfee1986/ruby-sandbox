@@ -1,5 +1,5 @@
 pp "Hello! Whats your name?"
 
-gets
+"erica"
 
 pp "Hi, there," + user_name + "!"
